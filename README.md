@@ -1,6 +1,6 @@
 ### Hardest Game
 
-**Hardest Game** is [mine](https://github.com/Finyti). study project that I did in 8 hours.
+**Hardest Game** is [mine](https://github.com/Finyti) study project that I did in 8 hours.
 
 The point of this game is to complete all levels in a shortest time. 
 
